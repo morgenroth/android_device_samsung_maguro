@@ -4,7 +4,7 @@
    "target_path": "kernel/samsung/tuna"
  },
  {
-   "repository": "android_device_samsung_tuna",
+   "repository": "morgenroth/android_device_samsung_tuna",
    "target_path": "device/samsung/tuna"
  }
 ]
